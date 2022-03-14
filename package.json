@@ -1,0 +1,16 @@
+{
+  "name": "interview-exercise",
+  "version": "1.0.0",
+  "description": "technical task",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "npm run cypress:run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "8.6.0"
+  }
+}
